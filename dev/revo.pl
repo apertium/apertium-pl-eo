@@ -10,7 +10,30 @@ binmode STDERR, ":utf8";
 
 my $pos;
 
-sub getpos {
+BEGIN{
+print <<'__HEAD__';
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="ij"/>
+    <sdef n="n"/>
+    <sdef n="np"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="vblex"/>
+  </sdefs>
+  <section id="main" type="standard">
+__HEAD__
+}
+
+END{
+print <<'__FOOT__';
+  </section>
+</dictionary>
+__FOOT__
+}
+
+sub getpos ($) {
 	if (/e$/) {
 		return 'adv';
 	} elsif (/o$/) {

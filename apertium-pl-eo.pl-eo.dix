@@ -1,3 +1,14 @@
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="ij"/>
+    <sdef n="n"/>
+    <sdef n="np"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="vblex"/>
+  </sdefs>
+  <section id="main" type="standard">
     <e><p><l>abak<s n="n"/></l><r>abako<s n="n"/></r></p></e>
     <e><p><l>abakus<s n="n"/></l><r>abako<s n="n"/></r></p></e>
     <e><p><l>abandon<s n="n"/></l><r>abandono<s n="n"/></r></p></e>
@@ -19418,3 +19429,5 @@
     <e><p><l>-ek<s n="ij"/></l><r>ĉj<s n="ij"/></r></p></e>
     <e><p><l>-uś<s n="ij"/></l><r>ĉj<s n="ij"/></r></p></e>
     <e><p><l>-że<s n="n"/></l><r>do<s n="n"/></r></p></e>
+  </section>
+</dictionary>
