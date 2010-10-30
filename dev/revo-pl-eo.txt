@@ -131,7 +131,7 @@ albowiem: ĉar, tial ke,
 album: bildaro, bildolibro
 alchemia: alĥemio
 alchemik: alĥemiisto
-ale (piwo): elo
+ale: elo
 aleja: aleo, avenuo
 Alek: Aleksandro
 Aleksander: Aleksandro
@@ -145,9 +145,8 @@ alfabet Morse'a: morsa kodo,
 Alfons: Alfonso
 Alfred: Alfredo
 algebra: 
-   algebra (dział matematyki): algebro
-   algebra (struktura): algebro
-   algebra (nad ciałem): lineara algebro
+   algebra: algebro
+   algebra nad ciałem: lineara algebro
 algebra Banacha: banaĥa algebro
 algebra Boole'a: bulea algebro
 algebraiczny: algebra
@@ -335,8 +334,7 @@ Argentyna: Argentino
 argon: argono
 Argonauci: Argonaŭtoj
 argument: 
-   argument (liczby zespolonej): argumento
-   argument (zmienna niezależna): argumento
+   argument: argumento
 argument działania: operaciato
 arka: arkeo
 armada: militŝiparo,, ŝiparo
@@ -633,8 +631,6 @@ bawić: distri
 bawić się: distriĝi, ludi
 bawół: bubalo
 baza: bazo, subtavolo
-   baza (przestrzeni wektorowej): bazo
-   baza (topologii): bazo
 baza dualna: duala bazo
 baza kanoniczna: kanona bazo
 bazalt: bazalto
@@ -1188,7 +1184,7 @@ brzeg: bordo
 brzeg morski: marbordo
 brzeg morza: marbordo
 brzegowiec: manato, riverdelfeno
-(punkt) brzegowy: randa
+brzegowy: randa
 występować z brzegów: superbordiĝi
 brzegu: 
    dobijać do brzegu: albordiĝi
@@ -1251,7 +1247,7 @@ Burkina Faso: Burkino
 burleska: burlesko
 burleskowy: burleska
 burnus: burnuso
-bursa (daw.): internulejo
+bursa: internulejo
 burta: 
    lewa burta: babordo
    prawa burta: tribordo
@@ -1397,7 +1393,7 @@ centralizować: centralizi, centri, centrigi, alcentrigi, kuncentrigi
 centralny: centra
 centrować: centri, centrigi, alcentrigi, kuncentrigi
 centrum: centro
-   centrum (grupy): centro de grupo
+   centrum grupy: centro de grupo
 centygram: centigramo
 centylitr: centilitro
 centym: centimo
@@ -1451,7 +1447,7 @@ chaos: anarkio, ĥaoso, malordaĵo, senordo
    wprowadzać chaos: malordigi
 chaotycznie: ĥaose
 chaotyczny: anarkia, ĥaosa
-charakterystyka (pierścienia): karakteristiko
+charakterystyka: karakteristiko
 charkać: ekspektori
 Charków: Ĥarkovo
 Charon: Ĥarono
@@ -1529,9 +1525,9 @@ chorągiew: regiono, standardo
 chorągwiany: regiona
 chorda: ĥordo
 chorea: ĥoreo
-choroba szalonych krów: bova spongeca encefalopatio (BSE)
+choroba szalonych krów: bova spongeca encefalopatio
 choroba św. Wita: ĥoreo
-choroba wsciekłych krów: bova spongeca encefalopatio (BSE)
+choroba wsciekłych krów: bova spongeca encefalopatio
 Chorwacja: Kroatio, Kroatujo
 Chorwacji: 
    Republika Chorwacji: Kroatio
